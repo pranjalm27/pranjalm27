@@ -13,6 +13,8 @@
 
 - 📝 Check out my blogs at [medium](https://medium.com/@AIwithpranjal)
 
+- 📈 Have a look at my Visualisations on [Behance](https://www.behance.net/pranjalmeshram3)
+
 - 📫 Reach me at - **pranjalmeshram50@gmail.com**
 
 
