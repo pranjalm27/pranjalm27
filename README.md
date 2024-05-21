@@ -1,5 +1,5 @@
 ![logo](https://github.com/pranjalm27/pranjalm27/blob/main/Site_Banner.png)
-<h1 align="center">Hello World👋, I'm Pranjal Meshram</h1>
+<h1 align="center">Hello World👋, I'm Pranjal</h1>
 <h3 align="center">Welcome to my GitHub portfolio, where you can explore my personal projects as a data enthusiast!</h3>
 
 
