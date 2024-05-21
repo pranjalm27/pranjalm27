@@ -1,21 +1,21 @@
-![logo](https://github.com/pranjalm27/pranjalm27/blob/main/banner.png)
+![logo](https://github.com/pranjalm27/pranjalm27/blob/main/Site_Banner.png)
 <h1 align="center">Hello World👋, I'm Pranjal Meshram</h1>
-<h3 align="center">Welcome to my GitHub portfolio, where you can explore my work and projects as a data enthusiast!</h3>
+<h3 align="center">Welcome to my GitHub portfolio, where you can explore my personal projects as a data enthusiast!</h3>
 
 
-- 🔭 I’m currently working on **a research paper on FinTechs in India**
+- 🔭 I’m currently working on **an analytics project at my Internship**
 
-- -✍️ Currently pursuing Master's Degree in International Business Economics and Finance
+- -✍️ Currently pursuing Master of Science in International Business Economics and Finance
 
-- 📈 Particularly interested in **`Predictive Analytics`**, **`Machine Learning`** and applying statistical models to solve interesting novel business problems.
+- 📈 Particularly interested in **`Predictive Analytics`**, **`Machine Learning`** and applying statistical models to solve interesting novel business problems
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📝 Check out my blogs at [medium](https://medium.com/@AIwithpranjal)
 
-- 📈 Have a look at my Visualisations on [Behance](https://www.behance.net/pranjalmeshram3)
+- 📈 Have a look at my Dashboard Visualisations on [Behance](https://www.behance.net/pranjalmeshram3)
 
-- 📫 Reach me at - **pranjalmeshram50@gmail.com**
+- 📫 You can reach me at - **pranjalmeshram50@gmail.com**
 
 
 
