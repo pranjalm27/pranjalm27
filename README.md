@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 📝 Check out my blogs at [medium](https://medium.com/@AIwithpranjal)
+- 📝 Check out my blogs at [medium](https://medium.com/@Blogwithpranjal)
 
 - 📈 Have a look at my Dashboard Visualisations on [Behance](https://www.behance.net/pranjalmeshram3)
 
