@@ -1,19 +1,19 @@
 ![logo](https://github.com/pranjalm27/pranjalm27/blob/main/Site_Banner.png)
 <h1 align="center">Hello World👋, I'm Pranjal</h1>
-<h3 align="center">Welcome to my GitHub portfolio, where you can explore my personal projects as a data enthusiast!</h3>
+<h3 align="center">Welcome to my GitHub profile, where you can explore my personal projects!</h3>
 
 
-- 🔭 I’m currently working on **an analytics project at my Internship**
+- 🔭 I’m currently looking for **a job/ internship in Data Analytics**
 
-- -✍️ Currently pursuing Master of Science in International Business Economics and Finance
+- -✍️ Graduated with M.Sc. in International Business Economics and Finance in May 2024
 
-- 📈 Particularly interested in **`Predictive Analytics`**, **`Machine Learning`** and applying statistical models to solve interesting novel business problems
+- 📈 Particularly interested in **`Predictive Analytics`**, **`Machine Learning`** and applying statistical models to solve interesting business problems
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📝 Check out my blogs at [medium](https://medium.com/@Blogwithpranjal)
 
-- 📈 Have a look at my Dashboard Visualisations on [Behance](https://www.behance.net/pranjalmeshram3)
+- 📈 Have a look at my Visual summary on [my website]([https://www.behance.net/pranjalmeshram3](https://pranjalmeshram50.wixsite.com/portfolio))
 
 - 📫 You can reach me at - **pranjalmeshram50@gmail.com**
 
