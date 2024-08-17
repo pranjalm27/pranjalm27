@@ -3,9 +3,10 @@
 <h3 align="center">Welcome to my GitHub profile, where you can explore my personal projects!</h3>
 
 
+
 - 🔭 I’m currently on the lookout for a **job/ internship in Data Analytics**
 
-- -✍️ Graduated with M.Sc. in International Business Economics and Finance in May 2024
+- ✍️ Graduated with M.Sc. in International Business Economics and Finance in May 2024
 
 - 📈 Particularly interested in **`Predictive Analytics`**, **`Data Visualization`** and applying statistical models to solve interesting business problems
 
@@ -14,6 +15,8 @@
 - 📝 Check out my blogs at [medium](https://medium.com/@Blogwithpranjal)
 
 - 📈 Have a look at my Visual summary on [my website]([https://www.behance.net/pranjalmeshram3](https://pranjalmeshram50.wixsite.com/portfolio))
+
+
 
 
 
