@@ -14,7 +14,7 @@
 
 - 📝 Check out my blogs at [medium](https://medium.com/@Blogwithpranjal)
 
-- 📈 Have a look at my Visual summary on [my website]([https://www.behance.net/pranjalmeshram3](https://pranjalmeshram50.wixsite.com/portfolio))
+- 📈 Have a look at my Visual summary on [my website](https://pranjalmeshram50.wixsite.com/portfolio)
 
 
 
